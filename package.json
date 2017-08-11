@@ -1,0 +1,20 @@
+{
+  "name": "rax-all",
+  "author": "havefive",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "rax-scripts start",
+    "build": "rax-scripts build",
+    "lint": "eslint --ext .js --ext .jsx ./src"
+  },
+  "dependencies": {
+    "rax": "^0.4.10",
+    "rax-view": "^0.4.10",
+    "rax-text": "^0.4.10"
+  },
+  "devDependencies": {
+    "rax-scripts": "^0.4.10",
+    "babel-eslint": "^7.1.0",
+    "eslint": "^3.10.0"
+  }
+}
