@@ -1,6 +1,9 @@
 # rax-all
 基于react的面向移动端和web端的工程示例，React template project for platforms!
 
+
+更多参考：https://alibaba.github.io/rax/
+
 <p align="center">
   <img src="screenshot/rax.png">
 </p>
